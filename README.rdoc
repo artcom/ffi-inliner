@@ -2,6 +2,8 @@ ffi-inliner
   by Andrea Fazzi
   http://github.com/remogatto/ffi-inliner
 
+updated for ruby 1.9.3, bundler & Gemfile usage by dirk luesebrink/art+com AG
+
 == DESCRIPTION:
 
 With ffi-inliner you can run C code within your ruby script.

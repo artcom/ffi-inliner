@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    ffi-inliner (0.2.4)
+      ffi (>= 0.4.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.8.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (>= 1.0.0)
+  ffi-inliner!
